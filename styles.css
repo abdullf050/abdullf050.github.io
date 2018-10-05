@@ -1,1 +1,18 @@
+html {
+   text-align: center;
+    background-image: url(background.jpg);
+}
 
+img {
+border-radius: 40px;
+height: 200px;
+width: 200px;
+}
+h1  {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    font-family: cursive;
+}
